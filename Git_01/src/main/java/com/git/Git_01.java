@@ -10,5 +10,6 @@ public class Git_01 {
         System.out.println("更新1");
         System.out.println("已创建dev分支");
         System.out.println("主干更新");
+        System.out.println("分支更新");
     }
 }
